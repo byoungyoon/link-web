@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.link.share.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
